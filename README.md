@@ -8,7 +8,7 @@
 
 xxxxxxxxxxxxxxxxxxxxxxxxxx
 
-<p align="center"><img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/code.svg"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/buttons/php.svg"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/laravel-badge.png" alt="laravel"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/buttons/docs.svg" alt="docs"> <img alt="GitHub" src="https://img.shields.io/github/license/summercms/sc-vendor-packages-parser"> <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/summercms/sc-vendor-packages-parser?include_prereleases"></p>
+<p align="center"><img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/code.svg"> <img src="https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/passing.svg"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/buttons/docs.svg" alt="docs"> <img alt="GitHub" src="https://img.shields.io/github/license/summercms/sc-vendor-packages-parser"> <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/summercms/sc-vendor-packages-browser-svg-icons?include_prereleases"></p>
 
 ## Table of Contents 📑
 
