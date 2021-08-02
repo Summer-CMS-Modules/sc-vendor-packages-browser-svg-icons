@@ -15,7 +15,7 @@
     "url": "git+https://github.com/summercms/sc-vendor-packages-browser-svg-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/summercms/sc-vendor-packages-browser-svg-iconsissues"
+    "url": "https://github.com/summercms/sc-vendor-packages-browser-svg-icons/issues"
   },
   "publishConfig": {
     "access": "public",
