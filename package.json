@@ -4,7 +4,7 @@
   "description": "Modern browser high resolution SVG icons.",
   "main": "bin/index.js",
   "bin": {
-    "sc-vendor-packages-browser-svg-icons": "src/index.js"
+    "sc-vendor-packages-browser-svg-icons": "bin/index.js"
   },
   "scripts": {
     "start": "node bin/index.js",
