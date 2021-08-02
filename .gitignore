@@ -6,6 +6,7 @@
 .phpunit.result.cache
 .vscode
 assets/*
+bin/*
 build/*
 composer.lock
 docs/*
