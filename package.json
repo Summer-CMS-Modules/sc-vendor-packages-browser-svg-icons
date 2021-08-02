@@ -23,8 +23,5 @@
       "master"
     ]
   },
-  "homepage": "https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/README.md",
-  "devDependencies": {
-    "semantic-release": "^17.4.4"
-  }
+  "homepage": "https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/README.md"
 }
