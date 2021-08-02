@@ -12,22 +12,15 @@ Modern Browser icons are particular useful for showing browser support for your 
 
 ## Table of Contents 📑
 
-- [Requirements](#requirements-)
 - [Installation](#installation-)
 - [Basic usage](#basic-usage-)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
 - [Contributions, Feature Requests and Feedback](#contributions-feature-requests-and-feedback-)
-	- [Testers](#testers-)
-        - [With testing ](#with-testing-)
-        - [Without testing](#without-testing-)
-- [Laravel TestBench](#laravel-testbench-%EF%B8%8F)
-	- [Testing Results](#testing-results-)
-- [PHP Coding Standards Fixer](#php-coding-standards-fixer-)
-	- [Installation](#installation-)
-	- [Usage](#usage-)
+- [Requesting icon]()
 - [Security](#security-)
 - [Semantic Versioning](#semantic-versioning-)
+- [Legal]()
 - [License](#license-)
 - [Copyright and License](#copyright-and-license-)
 
