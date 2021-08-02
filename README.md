@@ -31,10 +31,6 @@ Modern Browser icons are particular useful for showing browser support for your 
 - [License](#license-)
 - [Copyright and License](#copyright-and-license-)
 
-## Requirements 🚩
-
-xxxx
-
 ## Installation ❤️
 
 xxxxxxxxxx
