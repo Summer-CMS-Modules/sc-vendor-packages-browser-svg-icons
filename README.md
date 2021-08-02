@@ -34,11 +34,17 @@ npm install sc-vendor-packages-browser-svg-icons
 
 ## Basic usage 🔥
 
+First connect to the css file:
 
+```html
+<link rel="stylesheet" href="src/styles.min.css">
+```
 
+Second use the prefix `browser-icon-` to connect to an icon of your choice:
 
-
-
+```html
+<i class="browser-icon-chrome"></i>
+```
 
 ## Issues 🔨
 
