@@ -2,10 +2,10 @@
   "name": "sc-vendor-packages-browser-svg-icons",
   "version": "1.0.0",
   "description": "Modern browser high resolution SVG icons.",
-  "main": "src/index.js",
-  "bin": "src/index.js",
+  "main": "bin/index.js",
+  "bin": "bin/index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node bin/index.js",
     "semantic-release": "semantic-release"
   },
   "keywords": [
