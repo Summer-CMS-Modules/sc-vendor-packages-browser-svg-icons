@@ -20,7 +20,7 @@ Modern Browser icons are particular useful for showing browser support for your 
 - [Requesting icon](#requesting-icon-)
 - [Security](#security-)
 - [Semantic Versioning](#semantic-versioning-)
-- [Legal]()
+- [Legal](#legal-)
 - [License](#license-)
 - [Copyright and License](#copyright-and-license-)
 
