@@ -1,0 +1,8 @@
+{
+    "header-style": {
+        "style": "setext_with_atx"
+    },
+    "no-duplicate-header": {
+        "allow_different_nesting": true
+    }
+}
