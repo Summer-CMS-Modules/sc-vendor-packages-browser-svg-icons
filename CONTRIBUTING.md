@@ -15,7 +15,9 @@ Here are some terms that we will use in this repo:
 
 ## What Icons Do We Accept?
 
-SVG only! No png, jpg, gif etc.
+**SVG only!**
+
+No png, jpg, gif etc.
 
 ## Requesting an Icon
 
