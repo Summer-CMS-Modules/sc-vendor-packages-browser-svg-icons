@@ -17,7 +17,7 @@ Modern Browser icons are particular useful for showing browser support for your 
 - [Issues](#issues-)
 - [Changelog](#changelog-)
 - [Contributions, Feature Requests and Feedback](#contributions-feature-requests-and-feedback-)
-- [Requesting icon]()
+- [Requesting icon](#requesting-icon-)
 - [Security](#security-)
 - [Semantic Versioning](#semantic-versioning-)
 - [Legal]()
