@@ -13,7 +13,6 @@ Modern Browser icons are particular useful for showing browser support for your 
 ## Table of Contents 📑
 
 - [Installation](#installation-)
-- [Basic usage](#basic-usage-)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
 - [Contributions, Feature Requests and Feedback](#contributions-feature-requests-and-feedback-)
@@ -26,11 +25,11 @@ Modern Browser icons are particular useful for showing browser support for your 
 
 ## Installation ❤️
 
-xxxxxxxxxx
+You can download as many SVG icons as you need in [src folder](https://github.com/summercms/sc-vendor-packages-browser-svg-icons/tree/master/src/svg), or download the whole collection via `npm`:
 
-## Basic usage 🔥
-
-xxxxxxxxx
+```shell
+npm install sc-vendor-packages-browser-svg-icons
+```
 
 ## Issues 🔨
 
