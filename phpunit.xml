@@ -16,7 +16,7 @@
          verbose="true"
 >
     <testsuites>
-        <testsuite name="Summer CMS Parser Wrapper Test Suite">
+        <testsuite name="Summer CMS Browser SVG Icons Vendor Package Test Suite">
             <directory suffix=".php">./tests</directory>
         </testsuite>
     </testsuites>
