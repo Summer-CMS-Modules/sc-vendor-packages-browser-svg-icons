@@ -13,6 +13,7 @@ Modern Browser icons are particular useful for showing browser support for your 
 ## Table of Contents 📑
 
 - [Installation](#installation-)
+- [Basic usage](#basic-usage-)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
 - [Contributions, Feature Requests and Feedback](#contributions-feature-requests-and-feedback-)
@@ -30,6 +31,14 @@ You can download as many SVG icons as you need in [src folder](https://github.co
 ```shell
 npm install sc-vendor-packages-browser-svg-icons
 ```
+
+## Basic usage 🔥
+
+
+
+
+
+
 
 ## Issues 🔨
 
