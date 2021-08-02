@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<ruleset name="sc-vendor-packages-json5">
-    <description>Wrapper for the Summer CMS JSON5 Module.</description>
+<ruleset name="sc-vendor-packages-browser-svg-icons">
+    <description>Summer CMS Browser SVG Icons Vendor Package.</description>
     <rule ref="PSR2">
         <!-- Exceptions to the PSR-2 guidelines -->
         <exclude name="PSR1.Methods.CamelCapsMethodName.NotCamelCaps" />
