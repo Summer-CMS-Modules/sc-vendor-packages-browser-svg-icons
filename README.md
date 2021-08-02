@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/cover.jpg" /></p>
 
-xxxxxxxxxxxxxxxxxxxxxxxxxx
+Modern Browser icons are particular useful for showing browser support for your websites, web applications or desktop applications. All icons are high resolution SVG's with transparent backgrounds.
 
 <p align="center"><img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/code.svg"> <img src="https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/passing.svg"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/buttons/docs.svg" alt="docs"> <img alt="GitHub" src="https://img.shields.io/github/license/summercms/sc-vendor-packages-parser"> <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/summercms/sc-vendor-packages-browser-svg-icons?include_prereleases"></p>
 
