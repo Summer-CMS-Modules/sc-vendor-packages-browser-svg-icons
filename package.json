@@ -16,9 +16,6 @@
   ],
   "author": "Summer CMS",
   "license": "GPL-3.0-or-later",
-  "dependencies": {
-    "inquirer": "^8.1.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/summercms/sc-vendor-packages-browser-svg-icons.git"
