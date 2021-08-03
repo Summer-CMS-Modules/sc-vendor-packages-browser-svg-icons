@@ -1,7 +1,11 @@
 {
   "name": "sc-vendor-packages-browser-svg-icons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Modern browser high resolution SVG icons.",
+  "style": "src/styles.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [
     "svg",
     "svg-icons",
