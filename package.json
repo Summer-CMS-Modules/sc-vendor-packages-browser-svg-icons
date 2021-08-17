@@ -1,6 +1,6 @@
 {
   "name": "sc-vendor-packages-browser-svg-icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Modern browser high resolution SVG icons.",
   "style": "src/styles.css",
   "scripts": {
@@ -16,10 +16,10 @@
   "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/summercms/sc-vendor-packages-browser-svg-icons.git"
+    "url": "git+https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/summercms/sc-vendor-packages-browser-svg-icons/issues"
+    "url": "https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/issues"
   },
   "publishConfig": {
     "access": "public",
@@ -27,5 +27,5 @@
       "master"
     ]
   },
-  "homepage": "https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/README.md"
+  "homepage": "https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/README.md"
 }
