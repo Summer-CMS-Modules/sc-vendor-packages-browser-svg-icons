@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/browser-icon.svg" width="128" height="128"/>
+  <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/browser-icon.svg" width="128" height="128"/>
 </p>
 
 <h1 align="center">Summer CMS Browser SVG Icons Vendor Package</h1>
 
-<p align="center"><img src="https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/cover.jpg" /></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/cover.jpg" /></p>
 
 Modern Browser icons are particular useful for showing browser support for your websites, web applications or desktop applications. All icons are high resolution SVG's with transparent backgrounds.
 
-<p align="center"><img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/code.svg"> <img src="https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/passing.svg"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/summercms/sc-vendor-packages-parser/blob/master/assets/images/buttons/docs.svg" alt="docs"> <img alt="GitHub" src="https://img.shields.io/github/license/summercms/sc-vendor-packages-parser"> <img alt="npm" src="https://img.shields.io/npm/v/sc-vendor-packages-browser-svg-icons"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-parser/blob/master/assets/images/code.svg"> <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/passing.svg"> <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-parser/blob/master/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-parser/blob/master/assets/images/buttons/docs.svg" alt="docs"> <img alt="GitHub" src="https://img.shields.io/github/license/Summer-CMS-Modules/sc-vendor-packages-parser"> <img alt="npm" src="https://img.shields.io/npm/v/sc-vendor-packages-browser-svg-icons"></p>
 
 ## Table of Contents 📑
 
@@ -26,7 +26,7 @@ Modern Browser icons are particular useful for showing browser support for your 
 
 ## Installation ❤️
 
-You can download as many SVG icons as you need in [src folder](https://github.com/summercms/sc-vendor-packages-browser-svg-icons/tree/master/src/svg), or download the whole collection via `npm`:
+You can download as many SVG icons as you need in [src folder](https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/tree/master/src/svg), or download the whole collection via `npm`:
 
 ```shell
 npm install sc-vendor-packages-browser-svg-icons
@@ -48,13 +48,13 @@ Second use the prefix `browser-icon-` to connect to an icon of your choice:
 
 ## Issues 🔨
 
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-vendor-packages-browser-svg-icons?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-vendor-packages-browser-svg-icons">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons">
 
 If you face any issue, you can create a new issue in the `Issues` tab and we will be glad to help you out!
 
 ## Changelog 🏆
 
-Please see [CHANGELOG](https://github.com/summercms/sc-vendor-packages-browser-svg-icons/releases) for more information what has changed recently.
+Please see [CHANGELOG](https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/releases) for more information what has changed recently.
 
 ## Contributions, Feature Requests and Feedback ✨
 
@@ -63,7 +63,7 @@ We are actively inviting new contributors! To start, please read the [contributi
 This project is only possible thanks to the work of many dedicated volunteers. Everyone is encouraged to help in ways large and small. Here are a few ways you can help:
 
 - Read the current content and help us fix any spelling mistakes or grammatical errors.
-- Choose an existing [issue](https://github.com/summercms/sc-vendor-packages-browser-svg-icons/issues) on GitHub and submit a pull request to fix it.
+- Choose an existing [issue](https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/issues) on GitHub and submit a pull request to fix it.
 - Open a new issue to report an opportunity for improvement.
 
 If you find any bugs in the code or have any improvements in mind then feel free to generate a pull request.
@@ -92,4 +92,4 @@ Everyone is permitted to copy and distribute copies of Summer CMS, but changing 
 
 [⬆ back to top](#table-of-contents-)
 
-<p align="center"><img src="https://github.com/summercms/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/luv.png"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/luv.png"></p>
