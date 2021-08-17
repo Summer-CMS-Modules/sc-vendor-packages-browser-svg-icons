@@ -18,7 +18,7 @@ If you believe you have found a security vulnerability in any Summer CMS owned r
 
 Summer CMS is an advocate of responsible vulnerability disclosure. If you've found a vulnerability, we would like to know so we can fix it. This notice provides details for how you can let us know about vulnerabilities, or alternatively you can view our `security.txt` file which contains quick links to contact us.
 
-You can report a vulnerability to Summer CMS through our vulnerability disclosure programme at [HackerOne](https://hackerone.com/xxxxxxxxxxxx/embedded_submissions/new). Alternatively, if you prefer to submit without logging in to HackerOne, send an email to [secure@example.com](mailto:secure@example.com).  If possible, encrypt your message with our PGP key; please download it from the [Summer CMS PGP Key page](https://github.com/summercms/sc-main/blob/master/PGP_KEY.md).
+You can report a vulnerability to Summer CMS through our vulnerability disclosure programme at [HackerOne](https://hackerone.com/xxxxxxxxxxxx/embedded_submissions/new). Alternatively, if you prefer to submit without logging in to HackerOne, send an email to [secure@example.com](mailto:secure@example.com).  If possible, encrypt your message with our PGP key; please download it from the [Summer CMS PGP Key page](https://github.com/Summer-CMS-Modules/sc-main/blob/master/PGP_KEY.md).
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
@@ -81,8 +81,8 @@ Unfortunately, Summer CMS doesn't offer a paid bug bounty programme. Summer CMS 
 
 # Code of Conduct
 
-Summer CMS have a contributors code of conduct, which you can find here: [Code of Conduct](https://github.com/summercms/sc-main/blob/master/CODE_OF_CONDUCT.md)
+Summer CMS have a contributors code of conduct, which you can find here: [Code of Conduct](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CODE_OF_CONDUCT.md)
 
 ## Comments on this Policy
 
-If you have suggestions on how this process could be improved please submit a [pull request](https://github.com/summercms/sc-main/pulls).
+If you have suggestions on how this process could be improved please submit a [pull request](https://github.com/Summer-CMS-Modules/sc-main/pulls).

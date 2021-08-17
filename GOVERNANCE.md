@@ -43,7 +43,7 @@ The data governance policy is a documented set of guidelines for ensuring Summer
 The Advisory Committee provides perspective and advice to the Technical Steering Committee. This advice is non-binding.
 
 #### Membership
-* Membership on the Advisory Committee shall include representatives from major Summer CMS constituencies (Collaborators, Contributors, Users and End-Users) who are committed to fulfilling [Summer CMS's Design Goals](https://github.com/summercms/sc-main/blob/master/DESIGN_GOALS.md).
+* Membership on the Advisory Committee shall include representatives from major Summer CMS constituencies (Collaborators, Contributors, Users and End-Users) who are committed to fulfilling [Summer CMS's Design Goals](https://github.com/Summer-CMS-Modules/sc-main/blob/master/DESIGN_GOALS.md).
 * Membership on the Advisory Committee is not time limited.
 * The target size of the Advisory Committee is 6-12 members; but there is no fixed size.
 * Once established the Advisory Committee sets its own membership through the consensus-based process.
@@ -54,18 +54,18 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 #### Role
 
-* Technical leadership of the Summer CMS project is delegated to the TSC in accordance with the [Summer CMS Contributing Policy](https://github.com/summercms/sc-main/blob/master/CONTRIBUTING.md).
-* The TSC's primary role is setting Summer CMS's technical and product direction based on the [Summer CMS's Design Goals](https://github.com/summercms/sc-main/blob/master/DESIGN_GOALS.md).
+* Technical leadership of the Summer CMS project is delegated to the TSC in accordance with the [Summer CMS Contributing Policy](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CONTRIBUTING.md).
+* The TSC's primary role is setting Summer CMS's technical and product direction based on the [Summer CMS's Design Goals](https://github.com/Summer-CMS-Modules/sc-main/blob/master/DESIGN_GOALS.md).
 * Creates a product roadmap in consultation with the Working Groups.
 * Creates Working Groups and sets the initial membership and initial Facilitator of the Working Groups.  The TSC may initiate the creation of Working Groups or a group of people with a common interest may request recognition as a Working Group.
 * Approves new Collaborators.
 * Sets and maintains the project goals guidelines.
 * Sets and maintains the project's feature and bug fix process.
-* Enforces the [Code of Conduct](https://github.com/summercms/sc-main/blob/master/CODE_OF_CONDUCT.md).
-* Approves changes to the Summer CMS Charter and this document as described in the [Summer CMS Contributing Policy](https://github.com/summercms/sc-main/blob/master/CONTRIBUTING.md).
+* Enforces the [Code of Conduct](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CODE_OF_CONDUCT.md).
+* Approves changes to the Summer CMS Charter and this document as described in the [Summer CMS Contributing Policy](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CONTRIBUTING.md).
 * The TSC may designate entities to perform security and privacy reviews for the Summer CMS code and features.
 * The TSC may escalate legal questions to the Foundation. 
-* Decisions within the TSC follow Summer CMS [decision-making policy](https://github.com/summercms/sc-main/blob/master/GOVERNANCE.md#decision-making-policy) and are facilitated by the Facilitator or their designate.
+* Decisions within the TSC follow Summer CMS [decision-making policy](https://github.com/Summer-CMS-Modules/sc-main/blob/master/GOVERNANCE.md#decision-making-policy) and are facilitated by the Facilitator or their designate.
 
 #### Membership
 
@@ -81,7 +81,7 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 #### Role
 * A Working Group is a segment of the Summer CMS community with knowledge/interest in specific areas of Summer CMS (e.g. UI, Runtime, Infrastructure, documentation etc.) recognized by the TSC.
-* The TSC defines each Working Group's mandate, which may include responsibility for certain Summer CMS features, systems and/or code.  A Working Group generally operates independently on the area(s) in which it has a mandate while adhering to Summer CMS's [Design Goals](https://github.com/summercms/sc-main/blob/master/DESIGN_GOALS.md), [Code of Conduct](https://github.com/summercms/sc-main/blob/master/CODE_OF_CONDUCT.md), [Contributing](https://github.com/summercms/sc-main/blob/master/CONTRIBUTING.md), and [Technical/Product Roadmaps](https://github.com/Summer-CMS/Core/projects).
+* The TSC defines each Working Group's mandate, which may include responsibility for certain Summer CMS features, systems and/or code.  A Working Group generally operates independently on the area(s) in which it has a mandate while adhering to Summer CMS's [Design Goals](https://github.com/Summer-CMS-Modules/sc-main/blob/master/DESIGN_GOALS.md), [Code of Conduct](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CODE_OF_CONDUCT.md), [Contributing](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CONTRIBUTING.md), and [Technical/Product Roadmaps](https://github.com/Summer-CMS/Core/projects).
 * Each Working Group is made up of a set of Collaborators with knowledge/interest in that particular area and other interested parties.
 * Each Working Group's Facilitator is responsible for:
     * Facilitating consensus-based decisions within the Working Group.
