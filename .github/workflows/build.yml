@@ -17,8 +17,15 @@ jobs:
         php-versions: ['7.4', '8.0']
 
     steps:
-      - name: Checkout source
+      - name: Cancel previous incomplete runs
+        uses: styfle/cancel-workflow-action@0.8.0
+        with:
+          access_token: ${{ github.token }}
+
+      - name: Checkout changes
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -42,9 +49,3 @@ jobs:
         
       - name: Check code standards
         run: vendor/bin/phpcs --standard=PSR1,PSR2 -n src
-
-      - name: Run useragent string tests
-        run: php bin/runner.php --show check
-
-      - name: Run unit tests
-        run: vendor/bin/phpunit --no-coverage tests/unit
