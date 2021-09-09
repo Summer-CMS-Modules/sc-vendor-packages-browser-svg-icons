@@ -8,13 +8,13 @@
 /.php_cs.dist export-ignore
 /.whitesource export-ignore
 /assets export-ignore
-/bin export-ignore
 /CODE_OF_CONDUCT.md export-ignore
 /composer.lock export-ignore
 /CONTRIBUTING.md export-ignore
 /docs export-ignore
+/GOVERNANCE.md export-ignore
+/lerna.json export-ignore
 /LICENSE export-ignore
-/package.json export-ignore
 /phpcs.xml export-ignore
 /phpunit.xml export-ignore
 /README.md export-ignore
