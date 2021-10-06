@@ -1,30 +1,23 @@
-version: 2
+orbs:
+  node: circleci/node@4.2.1
 
-# https://circleci.com/docs/2.0/circleci-images/#php
+version: 2.1
+
+# https://circleci.com/docs/2.0/language-javascript/
 jobs:
-  test_8.0:
-    working_directory: ~/artisan-view
-    docker:
-      - image: circleci/php:8.0-fpm-node-browsers
-    steps:
-      - checkout
-      - run: sudo composer self-update --no-progress --no-interaction
-      - run: composer install --no-progress --no-interaction --prefer-dist
-      - run: ./vendor/bin/phpunit
-
-#  test_8.1:
-#    working_directory: ~/artisan-view
-#    docker:
-#      - image: circleci/php:8.1-fpm-node-browsers
-#    steps:
-#      - checkout
-#      - run: sudo composer self-update --no-progress --no-interaction
-#      - run: composer install --no-progress --no-interaction --prefer-dist
-#      - run: ./vendor/bin/phpunit
+   build:
+      docker:
+        - image: docker
+      steps:
+        - setup_remote_docker:
+            docker_layer_caching: true
+        - run: docker image ls
+        - run: docker volume ls
+        - run: docker run --mount source=datastore,destination=/mnt/volume debian:bullseye-slim dd if=/dev/zero of=/mnt/volume/zero bs=32M count=32
+        - run: docker volume ls
 
 workflows:
-  version: 2
-  test:
+  app-tests:
     jobs:
-      - test_8.0
-#      - test_8.1
+      - build
+      
