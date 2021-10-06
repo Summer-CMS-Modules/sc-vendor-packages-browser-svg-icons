@@ -13,7 +13,7 @@ Modern Browser icons are particular useful for showing browser support for your 
     <a href="https://github.com/Summer-CMS/Awesome#readme"><img src="https://github.com/Summer-CMS/Ecosystem/blob/master/assets/images/awesome-badge.svg"></a>
     <a href="https://circleci.com/gh/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons"><img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/circleci.svg"></a>
     <img src="https://github.com/Summer-CMS/Welcome/blob/master/assets/images/code.svg" />
-    <a href="https://github.com/Summer-CMS-Modules/sc-module-template" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="https://github.com/Summer-CMS-Modules/sc-module-template/blob/main/assets/images/work-flow.svg"></a>
+    <a href="https://github.com/Summer-CMS-Modules/sc-module-template" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/work-flow.svg"></a>
     <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements" title="PHP Versions Supported"><img alt="PHP Versions Supported" src="https://img.shields.io/badge/php-8.0%20to%208.1-777bb3.svg?logo=php&logoColor=white&labelColor=555555"></a>  
     <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements"><img src="https://img.shields.io/badge/Laravel-9.0%20(LTS)-777bb3.svg?logo=laravel&logoColor=white&labelColor=555555&color=orange" /></a>
     <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements"><img src="https://img.shields.io/badge/Symfony-6.0%20to%206.4-777bb3.svg?logo=symfony&logoColor=white&labelColor=555555&color=yellow" /></a>
