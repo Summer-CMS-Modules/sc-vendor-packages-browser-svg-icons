@@ -1,3 +1,11 @@
+> This vendor package is set to `public` and is open to the public to use and add issues and/or pull requests to improve the package. Please note all the Summer CMS repo's are currently set to `private` as they are still being heavily developed behind the scene and not yet ready for public use! See below the number of contributions one of our team members Ayumi has added to the Summer CMS project in the last year.
+
+<p align="center">
+  <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/commits.png"/>
+</p>
+
+<hr/>
+
 <p align="center">
   <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/browser-icon.svg" width="128" height="128"/>
 </p>
@@ -100,6 +108,8 @@ This plugin uses: [Semantic Versioning](https://semver.org/).
 All logos and trademarks are the property of their respective owners.
 
 ## Copyright and License 📄
+
+Copyright (c) Summer CMS. All rights reserved.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
