@@ -82,7 +82,31 @@ If you face any issue, you can create a new issue in the `Issues` tab and we wil
 
 Please see [CHANGELOG](https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/releases) for more information what has changed recently.
 
+## If you like the Summer CMS project 💗💗💗
+
+<p><a href="https://opencollective.com/summer-cms"><img align="center" src="/assets/images/support-summer-cms.jpg" /></a></p>
+
+If you like Summer CMS you can support the project's improvements and development of new features with a donation to our collective.
+
+ 👉  [https://opencollective.com/summer-cms](https://opencollective.com/summer-cms)
+
+### Sponsors ✨
+
+Support us by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/summer-cms/contribute/sir-8679/checkout)]
+
+<a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/83365462" width="64"></a>
+
+ ### Backers ✨
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/summer-cms/contribute/backer-8632/checkout)]
+
+<p align="center"><a href="https://opencollective.com/summercms#backers" target="_blank"><img src="/assets/images/summercms-backers.svg"></a></p>
+
 ## Contributions, Feature Requests and Feedback ✨
+
+This project exists thanks to all the people who contribute.
+    
+<p align="center"><img src="/assets/images/summercms-contributors.svg" /></p>
 
 We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
 
