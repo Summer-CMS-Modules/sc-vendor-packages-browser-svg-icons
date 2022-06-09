@@ -100,13 +100,13 @@ Support us by becoming a sponsor. Your logo will show up here with a link to you
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/summer-cms/contribute/backer-8632/checkout)]
 
-<p align="center"><a href="https://opencollective.com/summercms#backers" target="_blank"><img src="/assets/images/summercms-backers.svg"></a></p>
+<p align="center"><a href="https://opencollective.com/summercms#backers" target="_blank"><img src="/assets/images/summercms-backers.jpg"></a></p>
 
 ## Contributions, Feature Requests and Feedback ✨
 
 This project exists thanks to all the people who contribute.
     
-<p align="center"><img src="/assets/images/summercms-contributors.svg" /></p>
+<p align="center"><img src="/assets/images/summercms-contributors.jpg" /></p>
 
 We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
 
